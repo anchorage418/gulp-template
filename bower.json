@@ -1,0 +1,17 @@
+{
+  "name": "gulp_template",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "anchorage418"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
